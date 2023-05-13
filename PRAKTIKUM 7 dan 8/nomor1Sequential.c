@@ -23,7 +23,7 @@ int main(void){
 
     P = sequentialSearch(Tabel,N,IX);
 
-    if (P!= ("false")){ 
+    if (P!= -1){ 
         printf("Data %d ditemukan pada indeks ke-%d.\n",IX, P);
     }
     else{
@@ -50,6 +50,6 @@ int sequentialSearch(int T[], int N, int IX){
     if (found==true){
         return i;
     }else{
-        return ("false");
+        return -1;
     }
 }
