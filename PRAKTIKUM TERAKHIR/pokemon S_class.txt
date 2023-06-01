@@ -1,6 +1,0 @@
-List pokemon dengan predikat Sclass
-UPIN 900
-IPIN 800
-ROS 1000
-OPAH 950
-DALANG 2000

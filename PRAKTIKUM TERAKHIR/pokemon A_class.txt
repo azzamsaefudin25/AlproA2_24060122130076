@@ -1,5 +1,0 @@
-List pokemon dengan predikat Aclass
-IHSAN 600
-FIZI 750
-MAIL 790
-IJAT 500
